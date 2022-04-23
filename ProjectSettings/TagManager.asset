@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Equipments
+  - controlFall
+  - WoodtoButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - equipments
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: hidden
+    uniqueID: 1788106901
+    locked: 0
+  - name: Background
+    uniqueID: 1328754503
+    locked: 0
+  - name: Frontground
+    uniqueID: 3658255865
+    locked: 0
+  - name: equip
+    uniqueID: 4216077783
+    locked: 0
+  - name: player
+    uniqueID: 3481791115
+    locked: 0
+  - name: show
+    uniqueID: 46961133
+    locked: 0
+  - name: item
+    uniqueID: 914333447
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
